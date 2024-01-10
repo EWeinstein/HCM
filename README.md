@@ -1,2 +1,3 @@
 # Hierarchical Causal Models
-This repository contains supplementary code for the paper "Hierarchical Causal Models", Weinstein and Blei, 2024.
+This repository contains supplementary code reproducing the simulations and analysis in the paper:
+"Hierarchical Causal Models" by Eli N. Weinstein and David M. Blei, 2024.
